@@ -1,0 +1,53 @@
+{
+  "loading": "Loading...",
+  "loadError": "Error loading pregnancies",
+  "heading": "Pregnancies",
+  "startPregnancy": "Start Pregnancy",
+  "noPregnancies": "No pregnancies recorded",
+  "lmpLine": "LMP: {date}",
+  "eddLine": "Due date: {date}",
+  "weekLine": "week {week}",
+  "status": {
+    "aktive": "Active",
+    "perfunduar": "Completed",
+    "nderprere": "Terminated"
+  },
+  "visits": "Prenatal Visits",
+  "addVisit": "Add Visit",
+  "noVisits": "No visits recorded",
+  "weekShort": "wk{week}",
+  "bpFlag": "High BP",
+  "fundalHeightShort": "Fundal height: {value}cm",
+  "bpShort": "BP: {sys}/{dia}",
+  "weightShort": "Weight: {value}kg",
+  "fhrShort": "FHR: {value}bpm",
+  "cancel": "Cancel",
+  "saving": "Saving...",
+  "createSuccess": "Pregnancy recorded successfully",
+  "createError": "Error recording",
+  "updateError": "Error updating",
+  "visitAddSuccess": "Visit recorded successfully",
+  "visitAddError": "Error recording visit",
+  "newDialog": {
+    "title": "New Pregnancy",
+    "doctorLabel": "Doctor",
+    "doctorPlaceholder": "Select doctor",
+    "lmpLabel": "Last Menstrual Period (LMP)",
+    "eddPreview": "Estimated due date: {date}",
+    "notesLabel": "Notes",
+    "confirm": "Record"
+  },
+  "visitDialog": {
+    "title": "Prenatal Visit",
+    "dateLabel": "Visit Date",
+    "weekLabel": "Gestational Week",
+    "doctorLabel": "Doctor",
+    "fundalHeightLabel": "Fundal Height (cm)",
+    "weightLabel": "Weight (kg)",
+    "bpSystolicLabel": "BP Systolic",
+    "bpDiastolicLabel": "BP Diastolic",
+    "fhrLabel": "Fetal Heartbeat (bpm)",
+    "notesLabel": "Notes",
+    "confirm": "Record"
+  }
+}

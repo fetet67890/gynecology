@@ -1,0 +1,72 @@
+{
+  "loading": "Duke ngarkuar...",
+  "loadError": "Gabim gjatë ngarkimit",
+  "cancel": "Anulo",
+  "confirm": "Regjistro",
+  "saving": "Duke ruajtur...",
+  "createSuccess": "U regjistrua me sukses",
+  "createError": "Gabim gjatë regjistrimit",
+  "deleteSuccess": "U fshi me sukses",
+  "deleteError": "Gabim gjatë fshirjes",
+  "updateError": "Gabim gjatë përditësimit",
+  "normal": "Normale",
+  "abnormal": "Jashtë Normales",
+
+  "cycleHeading": "Historiku i Ciklit Menstrual",
+  "addCycle": "Shto Cikël",
+  "noCycles": "Nuk ka cikle të regjistruara",
+  "daysShort": "{days} ditë",
+  "flow": {
+    "e_lehte": "I Lehtë",
+    "normale": "Normal",
+    "e_rende": "I Rëndë"
+  },
+  "cycleDialog": {
+    "title": "Cikël i Ri",
+    "startDateLabel": "Data e Fillimit",
+    "lengthLabel": "Kohëzgjatja (ditë)",
+    "flowLabel": "Fluksi",
+    "flowNone": "Pa specifikuar",
+    "symptomsLabel": "Simptomat"
+  },
+
+  "screeningsHeading": "Skriningjet",
+  "addScreening": "Shto Skrining",
+  "noScreenings": "Nuk ka skriningje të regjistruara",
+  "screeningType": {
+    "pap": "Pap Test",
+    "sti": "Testim IST",
+    "hormonal": "Panel Hormonal"
+  },
+  "nextDueLine": "afati tjetër: {date}",
+  "screeningDialog": {
+    "title": "Skrining i Ri",
+    "typeLabel": "Lloji",
+    "dateLabel": "Data e Testit",
+    "resultLabel": "Rezultati",
+    "summaryLabel": "Përmbledhja e Rezultatit",
+    "summaryPlaceholder": "Opsionale",
+    "nextDueLabel": "Afati i Ardhshëm",
+    "notesLabel": "Shënime"
+  },
+
+  "devicesHeading": "Pajisjet Kontraceptive",
+  "addDevice": "Shto Pajisje",
+  "noDevices": "Nuk ka pajisje të regjistruara",
+  "deviceStatus": {
+    "aktiv": "Aktive",
+    "hequr": "Hequr",
+    "skaduar": "Skaduar"
+  },
+  "insertedLine": "Vendosur më {date}",
+  "removedLine": "hequr më {date}",
+  "plannedRemovalLine": "heqja e planifikuar {date}",
+  "deviceDialog": {
+    "title": "Pajisje e Re Kontraceptive",
+    "typeLabel": "Lloji i Pajisjes",
+    "typePlaceholder": "P.sh. Spirale bakri, Implant",
+    "insertionDateLabel": "Data e Vendosjes",
+    "plannedRemovalLabel": "Heqja e Planifikuar",
+    "notesLabel": "Shënime"
+  }
+}

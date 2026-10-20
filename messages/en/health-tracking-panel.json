@@ -1,0 +1,72 @@
+{
+  "loading": "Loading...",
+  "loadError": "Error loading",
+  "cancel": "Cancel",
+  "confirm": "Record",
+  "saving": "Saving...",
+  "createSuccess": "Recorded successfully",
+  "createError": "Error recording",
+  "deleteSuccess": "Deleted successfully",
+  "deleteError": "Error deleting",
+  "updateError": "Error updating",
+  "normal": "Normal",
+  "abnormal": "Abnormal",
+
+  "cycleHeading": "Menstrual Cycle History",
+  "addCycle": "Add Cycle",
+  "noCycles": "No cycles recorded",
+  "daysShort": "{days} days",
+  "flow": {
+    "e_lehte": "Light",
+    "normale": "Normal",
+    "e_rende": "Heavy"
+  },
+  "cycleDialog": {
+    "title": "New Cycle",
+    "startDateLabel": "Start Date",
+    "lengthLabel": "Length (days)",
+    "flowLabel": "Flow",
+    "flowNone": "Not specified",
+    "symptomsLabel": "Symptoms"
+  },
+
+  "screeningsHeading": "Screenings",
+  "addScreening": "Add Screening",
+  "noScreenings": "No screenings recorded",
+  "screeningType": {
+    "pap": "Pap Test",
+    "sti": "STI Testing",
+    "hormonal": "Hormonal Panel"
+  },
+  "nextDueLine": "next due: {date}",
+  "screeningDialog": {
+    "title": "New Screening",
+    "typeLabel": "Type",
+    "dateLabel": "Test Date",
+    "resultLabel": "Result",
+    "summaryLabel": "Result Summary",
+    "summaryPlaceholder": "Optional",
+    "nextDueLabel": "Next Due Date",
+    "notesLabel": "Notes"
+  },
+
+  "devicesHeading": "Contraceptive Devices",
+  "addDevice": "Add Device",
+  "noDevices": "No devices recorded",
+  "deviceStatus": {
+    "aktiv": "Active",
+    "hequr": "Removed",
+    "skaduar": "Expired"
+  },
+  "insertedLine": "Inserted {date}",
+  "removedLine": "removed {date}",
+  "plannedRemovalLine": "planned removal {date}",
+  "deviceDialog": {
+    "title": "New Contraceptive Device",
+    "typeLabel": "Device Type",
+    "typePlaceholder": "E.g. Copper IUD, Implant",
+    "insertionDateLabel": "Insertion Date",
+    "plannedRemovalLabel": "Planned Removal",
+    "notesLabel": "Notes"
+  }
+}

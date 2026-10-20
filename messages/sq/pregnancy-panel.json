@@ -1,0 +1,53 @@
+{
+  "loading": "Duke ngarkuar...",
+  "loadError": "Gabim gjatë ngarkimit të shtatzënive",
+  "heading": "Shtatzënitë",
+  "startPregnancy": "Fillo Shtatzëni",
+  "noPregnancies": "Nuk ka shtatzëni të regjistruara",
+  "lmpLine": "DML: {date}",
+  "eddLine": "Data e pritshme: {date}",
+  "weekLine": "javë {week}",
+  "status": {
+    "aktive": "Aktive",
+    "perfunduar": "Përfunduar",
+    "nderprere": "Ndërprerë"
+  },
+  "visits": "Vizitat Prenatale",
+  "addVisit": "Shto Vizitë",
+  "noVisits": "Nuk ka vizita të regjistruara",
+  "weekShort": "j{week}",
+  "bpFlag": "TA e Lartë",
+  "fundalHeightShort": "Lartësia e fundusit: {value}cm",
+  "bpShort": "TA: {sys}/{dia}",
+  "weightShort": "Pesha: {value}kg",
+  "fhrShort": "Zemra fetale: {value}bpm",
+  "cancel": "Anulo",
+  "saving": "Duke ruajtur...",
+  "createSuccess": "Shtatzënia u regjistrua me sukses",
+  "createError": "Gabim gjatë regjistrimit",
+  "updateError": "Gabim gjatë përditësimit",
+  "visitAddSuccess": "Vizita u regjistrua me sukses",
+  "visitAddError": "Gabim gjatë regjistrimit të vizitës",
+  "newDialog": {
+    "title": "Shtatzëni e Re",
+    "doctorLabel": "Mjeku",
+    "doctorPlaceholder": "Zgjidhni mjekun",
+    "lmpLabel": "Data e Ciklit të Fundit Menstrual (DML)",
+    "eddPreview": "Data e pritshme e lindjes: {date}",
+    "notesLabel": "Shënime",
+    "confirm": "Regjistro"
+  },
+  "visitDialog": {
+    "title": "Vizitë Prenatale",
+    "dateLabel": "Data e Vizitës",
+    "weekLabel": "Java Gestacionale",
+    "doctorLabel": "Mjeku",
+    "fundalHeightLabel": "Lartësia e Fundusit (cm)",
+    "weightLabel": "Pesha (kg)",
+    "bpSystolicLabel": "TA Sistolike",
+    "bpDiastolicLabel": "TA Diastolike",
+    "fhrLabel": "Zemra Fetale (bpm)",
+    "notesLabel": "Shënime",
+    "confirm": "Regjistro"
+  }
+}
